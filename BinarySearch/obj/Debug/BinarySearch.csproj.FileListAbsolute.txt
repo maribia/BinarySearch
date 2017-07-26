@@ -1,0 +1,8 @@
+D:\Study\MyProjects\BinarySearch\BinarySearch\bin\Debug\BinarySearch.exe.config
+D:\Study\MyProjects\BinarySearch\BinarySearch\bin\Debug\BinarySearch.exe
+D:\Study\MyProjects\BinarySearch\BinarySearch\bin\Debug\BinarySearch.pdb
+D:\Study\MyProjects\BinarySearch\BinarySearch\bin\Debug\nunit.framework.dll
+D:\Study\MyProjects\BinarySearch\BinarySearch\bin\Debug\nunit.framework.xml
+D:\Study\MyProjects\BinarySearch\BinarySearch\obj\Debug\BinarySearch.exe
+D:\Study\MyProjects\BinarySearch\BinarySearch\obj\Debug\BinarySearch.pdb
+D:\Study\MyProjects\BinarySearch\BinarySearch\obj\Debug\BinarySearch.csprojResolveAssemblyReference.cache
